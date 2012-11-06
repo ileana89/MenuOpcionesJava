@@ -64,15 +64,15 @@ public class Options
                 
               break;
                 
-          //case 4:
+          case 4:
                 
-              // String palabr = lectura.next();
-               //String sSubpalabr = palabr.substring(1, 5);
-              // System.out.println(sSubpalabr);  
+              String palabr = lectura.next();
+              String sSubpalabr = palabr.substring(1, 5);
+              System.out.println(sSubpalabr);  
               
-              // break; 
+              break; 
                 
-            //case 5:
+          case 5:
                 
                
                         
