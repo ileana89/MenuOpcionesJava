@@ -57,14 +57,14 @@ public class Options
                }
                break;
                 
-           // case 3:
+           case 3:
                 
-              // String palab = lectura.next();
-               //System.out.print("El largo de su cadena contiene: "   +   palab.length()  +  " letras ");
+              String palab = lectura.next();
+              System.out.print("El largo de su cadena contiene: "   +   palab.length()  +  " letras ");
                 
-               //break;
+              break;
                 
-          //  case 4:
+          //case 4:
                 
               // String palabr = lectura.next();
                //String sSubpalabr = palabr.substring(1, 5);
